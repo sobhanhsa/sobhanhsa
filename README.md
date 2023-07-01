@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sobhanhsa
-- 👀 I’m interested in Nodejs
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in BlockChain
+- 📙experted in NodeJS
+- 🌱 I’m currently learning golang
 
 <!---
 sobhanhsa/sobhanhsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
